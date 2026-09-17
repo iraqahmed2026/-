@@ -1,0 +1,6 @@
+{
+  "name": "نظام خط الخدمة وإدارة الحضور",
+  "description": "منظومة إلكترونية متكاملة مع قاعدة بيانات SQLite لإدارة خط الخدمة، تسجيل الحضور والانصراف، وتصدير التقارير بصيغ Excel وWord وPDF مع نظام تنبيهات الأداء للمديرين.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
